@@ -47,7 +47,7 @@ No modules.
 
 | Name                                                                                | Description                                                |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| <a name="output_account_id"></a> [account\_id](#output\_account\_id)                | --------------------- Output Sources --------------------- |
+| <a name="output_account_id"></a> [account\_id](#output\_account\_id)                | n/a
 | <a name="output_api_arn"></a> [api\_arn](#output\_api\_arn)                         | n/a                                                        |
 | <a name="output_caller_arn"></a> [caller\_arn](#output\_caller\_arn)                | n/a                                                        |
 | <a name="output_lambda_function"></a> [lambda\_function](#output\_lambda\_function) | n/a                                                        |
